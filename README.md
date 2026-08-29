@@ -18,7 +18,7 @@
 ### Hardware
 - Laptop with Kali Linux (or VM with USB passthrough).
 - External WiFi adapter supporting monitor mode and packet injection (e.g., ALFA AWUS036ACH).
-- Target router: FRITZ!Box 6660 Cable RX (my own).
+- Target router: FRITZ!Box (my own).
 
 ### Software
 - `aircrack-ng` suite (includes `airmon-ng`, `airodump-ng`, `aireplay-ng`, `aircrack-ng`).
